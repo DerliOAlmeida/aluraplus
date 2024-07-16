@@ -1,0 +1,24 @@
+Lista de exercícios
+PRÓXIMA ATIVIDADE
+
+1) Ajustando espaçamento com margens no CSS
+Imagine que você está trabalhando no desenvolvimento da interface da Alura Plus. Você precisa ajustar o espaçamento entre diferentes elementos da página, usando a propriedade margin em CSS. Seu primeiro desafio é ajustar o espaçamento entre o título da imagem da Alura Língua e Combo+ e a imagem em si. Para isso, você deve usar a classe .container__imagem que você já definiu no seu arquivo HTML. Ajuste a margem de modo que haja um espaçamento menor entre o título e a imagem, e um maior entre a imagem e os botões abaixo dela.
+
+2) Criando espaçamento uniforme em uma seção com CSS
+Agora, seu segundo desafio é criar um espaçamento uniforme ao redor de uma seção inteira na interface da Alura Plus. Você já tem uma div que envolve todos os elementos dessa seção. Adicione a classe .container__caixa a essa div. Depois, no seu arquivo CSS, use esta classe para aplicar margens de forma que haja um espaçamento igual entre os lados esquerdo e direito da seção, mantendo o topo e a parte de baixo sem espaçamento adicional. Considere as práticas de design mostradas no Figma e aplique as margens de forma a refletir essa estrutura visual.
+
+3) Centralizando elementos com CSS
+Você trabalha com desenvolvimento web e está construindo a seção principal de um site. Recentemente, você aprendeu como estilizar elementos HTML e aplicar espaçamentos usando CSS. Agora, seu desafio é centralizar todo o conteúdo da classe .principal na página, incluindo texto e imagens. Para isso, você precisa ajustar o arquivo styles.css, utilizando propriedades como align-items e text-align. Lembre-se que a propriedade align-items é usada quando se trabalha com Flexbox ou Grid, e text-align afeta o alinhamento de todos os elementos dentro de um bloco. Seu objetivo é garantir que o conteúdo esteja visualmente centralizado tanto vertical quanto horizontalmente.
+
+4) Implementando seção com imagem e texto
+Imagine que você está trabalhando em um projeto web e precisa implementar uma nova seção na página. Essa seção deve incluir uma imagem e um texto descritivo, semelhante ao que foi feito no projeto Alura Plus. Sua tarefa é criar uma seção HTML chamada "container secundário" e adicionar uma imagem e um texto descritivo. A imagem deve ser a "Plataformas.png" que você baixou e inseriu no projeto, e o texto deve ser "Aproveita a tela grande da TV ou assista no Tablet, Laptop, Celular e outros aparelhos. Nossa seleção de cursos não para de crescer". Lembre-se de usar as classes corretas para a imagem e o texto, conforme descrito no relato.
+
+5) Estilizando a seção com CSS
+Após implementar a seção HTML, é hora de estilizar a imagem e o texto usando CSS. Seu objetivo é garantir que a imagem ocupe 80% da largura da coluna e esteja centralizada. Além disso, você deve aplicar uma margem de 10em aos lados da seção. Para o título, ajuste o tamanho da fonte para 48px, o peso da fonte para 700 (bold) e a cor para branco. Para o texto descritivo, defina a cor para cinza. Use as classes corretas para selecionar os elementos e aplique os estilos como descrito.
+
+6) Construindo a terceira seção do projeto
+Você está desenvolvendo um site e já criou duas seções usando HTML e CSS. Agora, o desafio é construir uma terceira seção, reutilizando estilos e classes que você já desenvolveu. Essa nova seção deve ter uma estrutura diferente: primeiro a descrição e depois a imagem. Use a <div> com a classe container__descricao e um parágrafo <p> com a classe descricao__texto para a descrição. Inclua também um botão e uma imagem, aplicando classes já existentes para manter a consistência do design. Lembre-se de seguir a estrutura descrita no relato e adaptar o layout para que fique harmonioso com as seções anteriores.
+
+7) Criando uma nova seção com estilo reutilizado
+Baseado no que aprendeu sobre reutilização de estilos em CSS, seu próximo desafio é criar mais uma seção para o seu projeto. Esta seção deve ser semelhante à segunda que você já construiu, contendo uma imagem, um título e um texto descritivo. Utilize as mesmas classes e estilos que você aplicou anteriormente, mas adapte-os conforme necessário para esta nova seção. Preste atenção em como os estilos reutilizados se aplicam a esta nova parte do seu projeto e faça os ajustes necessários para que tudo se encaixe perfeitamente no layout geral do site.
+
